@@ -4,7 +4,9 @@ date: 2024-05-20T15:34:17-07:00
 ---
 
 
-# What We Do
+# The MGSA is an organization for math graduate students at UC Berkeley
+
+## What We Do
 
 We represent the grad students in the department, and have regular social and mentoring [events](events). 
 We assist with the annual open house for prospective students, 
@@ -15,7 +17,7 @@ We also sell Berkeley Math [T-shirts and mugs](gear)
 
 The MGSA is led by a group of elected officers, serving for terms of one year.
 
-# How You Can Help
+## How You Can Help
 
 Watch your e-mail for the latest announcements and events. 
 Here are some opportunities to watch out for.
