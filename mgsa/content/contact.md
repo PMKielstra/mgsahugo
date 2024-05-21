@@ -1,6 +1,8 @@
 ---
 title: "Contact"
-date: 2024-05-20T15:29:03-07:00
+menu:
+  main:
+    weight: 60
 ---
 
 ## Contact Us

@@ -1,6 +1,8 @@
 ---
 title: "Events"
-date: 2024-05-20T15:28:46-07:00
+menu:
+  main:
+    weight: 20
 ---
 
 # MGSA Events

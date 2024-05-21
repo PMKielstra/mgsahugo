@@ -1,26 +1,6 @@
-baseURL: 'http://example.org/'
+baseURL: ''
 languageCode: 'en-us'
 title: 'My New Hugo Site'
-theme: 'xmin'
+theme: 'mgsatheme'
 contentDir: 'content'
 
-menu:
-  main:
-    - name: Home
-      url: ""
-      weight: 1
-    - name: Events
-      url: "events/"
-      weight: 2
-    - name: "Office Draw"
-      url: "officedraw/"
-      weight: 3
-    - name: Officers
-      url: "officers/"
-      weight: 4
-    - name: Gear
-      url: "gear/"
-      weight: 5
-    - name: "Contact Us"
-      url: "contact/"
-      weight: 6

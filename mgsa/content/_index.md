@@ -1,6 +1,8 @@
 ---
-title: ""
-date: 2024-05-20T15:34:17-07:00
+title: "Home"
+menu:
+  main:
+    weight: 10
 ---
 
 

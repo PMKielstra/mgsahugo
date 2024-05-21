@@ -1,0 +1,11 @@
+<header>
+    <h1>MGSA <span class="berkeley">Berkeley</span></h1>
+    <nav>
+        <ul>
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+</header>
