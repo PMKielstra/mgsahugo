@@ -1,0 +1,95 @@
+/*
+Official UC Berkeley color palette:
+#003262 Berkeley Blue
+#FDB515 California Gold
+#3B7EA1 Founder's Rock
+#C4820E Medalist
+Custom:
+#225588 Light Berkeley Blue
+#D89933 Light Medalist
+*/
+
+html, body {
+    font-family: "Open Sans", sans-serif;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+header, main, footer, .widthRestricted {
+    width: 100%;
+    max-width: 800px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header, footer, .widthRestricted {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+main > * {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+header h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #444;
+}
+
+nav {
+    width: 100%;
+    background-color: #003262;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    flex-grow: 0;
+    text-align: center;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16pt;
+}
+
+nav ul li a:focus, nav ul li a:hover {
+    background-color: #225588;
+}
+
+nav ul li a.currentPage {
+    color: #FDB515
+}
+
+.box {
+    background-color: #eee;
+    overflow: auto;
+    border-radius: 5px;
+}

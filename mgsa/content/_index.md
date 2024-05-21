@@ -8,6 +8,8 @@ menu:
 
 # The MGSA is an organization for math graduate students at UC Berkeley
 
+{{% box %}}
+
 ## What We Do
 
 We represent the grad students in the department, and have regular social and mentoring [events](events). 
@@ -18,6 +20,8 @@ and organize the peer mentor program between graduate students.
 We also sell Berkeley Math [T-shirts and mugs](gear)
 
 The MGSA is led by a group of elected officers, serving for terms of one year.
+
+{{% /box %}}
 
 ## How You Can Help
 
