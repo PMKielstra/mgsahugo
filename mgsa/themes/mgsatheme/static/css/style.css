@@ -130,3 +130,8 @@ footer ul {
 footer a {
     color: #454545;
 }
+
+/* Obfuscation: see the obfuscate shortcode and also https://henkverlinde.com/blog/email-obfuscation-simple-way-works-2024 */
+b {
+    display: none
+}
