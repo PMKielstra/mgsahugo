@@ -99,6 +99,16 @@ nav ul li a.currentPage {
     text-align: center;
 }
 
+.columns {
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    flex-basis: 0;
+    flex-grow: 1;
+}
+
 main ul {
     list-style-position: inside;
 }
