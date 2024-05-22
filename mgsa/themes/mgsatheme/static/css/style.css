@@ -95,6 +95,10 @@ nav ul li a.currentPage {
     border-radius: 5px;
 }
 
+.center {
+    text-align: center;
+}
+
 main ul {
     list-style-position: inside;
 }
