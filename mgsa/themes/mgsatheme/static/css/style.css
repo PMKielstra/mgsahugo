@@ -119,6 +119,20 @@ main h1, main h2 {
     padding: 0;
 }
 
+figure {
+    display: flex;
+    flex-direction: column;
+}
+
+figure img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure figcaption {
+    text-align: center;
+    font-style: italic;
+}
 footer {
     display: flex;
     flex-direction: row;
