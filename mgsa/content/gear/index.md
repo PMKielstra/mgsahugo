@@ -61,4 +61,4 @@ Price: $15
 We are also selling (limited) hoodies in designs C and D.
 
 Price: $30
-{{% /box %}}
+{{% /box %}}<br>
