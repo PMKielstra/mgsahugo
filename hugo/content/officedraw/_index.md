@@ -6,7 +6,7 @@ menu:
 ---
 
 {{% box center %}}
-[Click here for the 2024 office draw website](2024)
+[Click here for the {{< latest.inline >}}{{ range first 1 (sort (where .Site.RegularPages "Section" .Page.Section) ".Params.year"  "desc") }}{{  .Params.year }}{{ end }}{{< /latest.inline >}} office draw website]({{< latestlink.inline >}}{{ range first 1 (sort (where .Site.RegularPages "Section" .Page.Section) ".Params.year"  "desc") }}{{  .Permalink }}{{ end }}{{< /latestlink.inline >}})
 {{% /box %}}
 
 ## Floorplans
@@ -163,3 +163,13 @@ There is a single moving day at the beginning of the fall semester. It is usuall
 {{% /box %}}
 
 This list may change year on year -- the department occasionally reallocates offices, changing which ones are for graduate students, which ones are for faculty, which ones are for visitors, and so on.
+
+## Office Draws Current and Historical
+
+{{< drawlist.inline >}}
+<ul>
+{{ range first 1 (sort (where .Site.RegularPages "Section" .Page.Section) ".Params.year"  "desc") }}
+  <li><a href="{{ .Permalink }}">{{ .Params.year }}</a></li>
+{{ end }}
+</ul>
+{{< /drawlist.inline >}}

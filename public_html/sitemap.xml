@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://math.berkeley.edu/~mgsa/officedraw/2024/</loc>
+    <loc>http://localhost:1313/~mgsa/officedraw/2024/</loc>
   </url><url>
-    <loc>https://math.berkeley.edu/~mgsa/categories/</loc>
+    <loc>http://localhost:1313/~mgsa/categories/</loc>
   </url><url>
-    <loc>https://math.berkeley.edu/~mgsa/contact/</loc>
+    <loc>http://localhost:1313/~mgsa/contact/</loc>
   </url><url>
-    <loc>https://math.berkeley.edu/~mgsa/events/</loc>
+    <loc>http://localhost:1313/~mgsa/events/</loc>
   </url><url>
-    <loc>https://math.berkeley.edu/~mgsa/gear/</loc>
+    <loc>http://localhost:1313/~mgsa/gear/</loc>
   </url><url>
-    <loc>https://math.berkeley.edu/~mgsa/</loc>
+    <loc>http://localhost:1313/~mgsa/</loc>
   </url><url>
-    <loc>https://math.berkeley.edu/~mgsa/officedraw/</loc>
+    <loc>http://localhost:1313/~mgsa/officedraw/</loc>
   </url><url>
-    <loc>https://math.berkeley.edu/~mgsa/officers/</loc>
+    <loc>http://localhost:1313/~mgsa/officers/</loc>
   </url><url>
-    <loc>https://math.berkeley.edu/~mgsa/tags/</loc>
+    <loc>http://localhost:1313/~mgsa/tags/</loc>
   </url>
 </urlset>

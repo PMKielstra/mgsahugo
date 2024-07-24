@@ -11,3 +11,5 @@ markup:
     renderer:
       unsafe: true
 
+security:
+  enableInlineShortcodes: true
