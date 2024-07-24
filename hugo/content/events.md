@@ -13,7 +13,7 @@ The MGSA regularly hosts events for graduate students. Here are some things you 
 - Fall and Spring Picnics – Mid-semester picnics at Live Oak Park.
 - Holiday Party – Our big winter event.
 - Panels and Workshops – To give advice about academic things, such as the qualifying exam.
-- [Office Draw](officedraw) – Choose an office for the coming academic year.
+- [Office Draw](/officedraw) – Choose an office for the coming academic year.
 - Open House Weekend – When prospective students come to campus.
 
 Events will typically be announced by email.
