@@ -2,8 +2,8 @@
     <a href="{{ .Site.BaseURL }}"><h1>MGSA <span class="berkeley">Berkeley</span></h1></a>
 </header>
 
-<nav>
-    <ul class="widthRestricted">
+<nav class="widthRestricted">
+    <ul>
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
             <li><a href="{{ .URL }}" {{ if $currentPage.IsMenuCurrent .Menu . }} class="currentPage" {{ end }} >{{ .Name }}</a></li>
