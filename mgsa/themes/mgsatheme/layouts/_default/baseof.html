@@ -1,5 +1,5 @@
 {{ if .Param "raw" }}
-    {{ .RawContent }}
+    {{ .RawContent | safeHTML }}
 {{ else }}
     <!DOCTYPE html>
     <html lang="en">

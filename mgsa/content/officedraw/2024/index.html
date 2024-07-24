@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script src="offices.js"></script>
+	<script src="data.js"></script>
+	<script src="index.js?v=2"></script>
+	<link href="style.css?v=2" rel="stylesheet" />
+	<title>2024 Office Draw</title>
+</head>
+<body onload="go()">
+	<div id="root">
+		<div id="drawOrder" class="block-scoller">
+			<h1>Draw Order</h1>
+			<input
+				class="people-search"
+				placeholder="Search for name"
+				oninput="searchForNameInDraw(event.target.value)"
+			/>
+			<div></div>
+		</div>
+		<div id="building" data-floor="7">
+			<div class="buttons">
+                <button data-floor="0" onclick="goToFloor('0')">10</button>
+                <button data-floor="9" onclick="goToFloor('9')">9</button>
+                <button data-floor="8" onclick="goToFloor('8')">8</button>
+				<button data-floor="7" onclick="goToFloor('7')">7</button>
+			</div>
+		</div>
+		<div id="setOffices" class="block-scoller">
+			<h1>Set Offices</h1>
+			<input
+				class="people-search"
+				placeholder="Search for name"
+				oninput="searchForNameInOffice(event.target.value)"
+			/>
+			<div></div>
+		</div>
+	</div>
+</body>
+</html>
