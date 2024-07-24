@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on MGSA Berkeley</title>
+    <link>http://localhost:1313/~mgsa/</link>
+    <description>Recent content in Home on MGSA Berkeley</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/~mgsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/~mgsa/officedraw/2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~mgsa/officedraw/2024/</guid>
+      <description>&lt;!DOCTYPE html&gt; 2024 Office Draw Draw Order 10 9 8 7 Set Offices </description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/~mgsa/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~mgsa/contact/</guid>
+      <description>Contact Us The best way to contact us is by email. You can email the officers at the address below. Note that you may need to send from a UC Berkeley address.&#xA;mgsamgsa@mgsamath.berkeley.edu&#xA;Also, feel free to talk to us in person. You can usually find some of us at tea.</description>
+    </item>
+    <item>
+      <title>Events</title>
+      <link>http://localhost:1313/~mgsa/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~mgsa/events/</guid>
+      <description>MGSA Events The MGSA regularly hosts events for graduate students. Here are some things you can expect during the year:&#xA;Graduate Student Tea – Friday in Evans Hall. Fall and Spring Picnics – Mid-semester picnics at Live Oak Park. Holiday Party – Our big winter event. Panels and Workshops – To give advice about academic things, such as the qualifying exam. Office Draw – Choose an office for the coming academic year.</description>
+    </item>
+    <item>
+      <title>Gear</title>
+      <link>http://localhost:1313/~mgsa/gear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~mgsa/gear/</guid>
+      <description>How to Buy Gear We sell T-shirts and mugs with Berkeley Math designs. To buy them during the semester, come find us at Friday tea. We also sell mugs, stickers, and shirts on Redbubble.&#xA;Mugs Perfect reusable vessel for math fuel of several varieties &amp;ndash; just bring it to 1015 during tea and fill it up!&#xA;Back of mug Front of mug Price: $15&#xA;T-shirts Proudly display your Berkeley Math-osity with an attractive Berkeley math shirt.</description>
+    </item>
+    <item>
+      <title>Officers</title>
+      <link>http://localhost:1313/~mgsa/officers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~mgsa/officers/</guid>
+      <description>Current Officers The MGSA officers for 2024 are:&#xA;Ansuman Bardalai Thomas Browning Jacob Elafandi Liza Jacoby Drew Keisling Michael Kielstra Tom Schang Elections There are at most seven officers at any given time. Elections take place around the beginning of each calendar year, with all seats open.&#xA;Past Officers Below is a (partial) list of former MGSA officers, since 1997:&#xA;Kashi Abhyankar José Alameida Meghan Anderson Paul Baginski Emily Bain Alex Barnard Katrina Biele Adam Boocher Adam Booth Yonah Borns-Weil Madeline Brandt Linda Brown Westrick Frank Calegari Alex Carney Dustin Cartwright Alois Cerbu Theresa Chow Tom Coates Dennis Courtney Rahul Dalal Ben Davis Franny Dean Adam Dhillon Tom Dorsey Liz Ferme Ron Fertig Taryn Flock Bradley Froehle Jeffrey Galkowski Swapnil Garg Bryan Gillespie Vinicius Gripp Barros Ramos Megumi Harada Matt Harvey Christine Heitsch Joe Hlavinka Bonnie Huggins Tom Insel James Kelley Lily Khadjavi Michael Kleber Josh Levenberg Larsen Linov Diane Maclagan Olya Mandelshtam Yelena Mandelshtam Anya Michaelsen Chris R.</description>
+    </item>
+  </channel>
+</rss>
